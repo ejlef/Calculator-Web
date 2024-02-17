@@ -1,0 +1,257 @@
+/* felje */
+
+html{
+touch-action: none;
+}
+
+body{
+  background-color:#fff;
+}
+
+.main_css{
+  position:fixed;
+  top:4%;
+  left:4%;
+  width:90%;
+  height:80%;
+  background-color:#555;
+  border-radius:5%;
+  margin:1%;
+  box-shadow:inset 0px 0px 10px #000,2px 2px 15px #000;
+  border:2px double #000;
+}
+
+.display_css{
+  position:relative;
+  top:5%;
+  left:5%;
+  width:85%;
+  height:15%;
+  background-color:#cdc;
+  color:#676;
+  text-align:right;
+  font-size:40px;
+  margin:1%;
+  box-shadow:inset 0 -5px 10px 2px #676,
+  0 5px 10px 0px #343;
+  
+}
+
+
+.one_css{
+ width:100%;
+ border-radius:20%;
+ font-size:50px;
+ background:#fee;
+ color:#333;
+ border:none;
+ box-shadow: inset 0 5px 10px 0 #fff,
+ inset 0 -5px 10px 3px #877,
+ 0 5px 10px 0px #121;
+}
+.two_css{
+ width:100%;
+ border-radius:20%;
+ font-size:50px;
+ background:#fee;
+ color:#333;
+ border:none;
+ box-shadow: inset 0 5px 10px 0 #fff,
+ inset 0 -5px 10px 3px #877,
+ 0 5px 10px 0px #121;
+}
+.three_css{
+  width:100%;
+  border-radius:20%;
+ font-size:50px;
+ background:#fee;
+ color:#333;
+ border:none;
+ box-shadow: inset 0 5px 10px 0 #fff,
+ inset 0 -5px 10px 3px #877,
+ 0 5px 10px 0px #121;
+}
+.clear_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#f00;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+ inset 0 -5px 10px 3px #877,
+ 0 5px 10px 0px #121;
+}
+
+
+.four_css{
+ width:100%;
+ border-radius:20%;
+ font-size:50px;
+ background:#fee;
+ color:#333;
+ border:none;
+ box-shadow: inset 0 5px 10px 0 #fff,
+ inset 0 -5px 10px 3px #877,
+ 0 5px 10px 0px #121;
+}
+.five_css{
+ width:100%;
+ border-radius:20%;
+ font-size:50px;
+ background:#fee;
+ color:#333;
+ border:none;
+ box-shadow: inset 0 5px 10px 0 #fff,
+ inset 0 -5px 10px 3px #877,
+ 0 5px 10px 0px #121;
+}
+.sex_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+.plus_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+
+
+.seven_css{
+ width:100%;
+ border-radius:20%;
+ font-size:50px;
+ background:#fee;
+ color:#333;
+ border:none;
+ box-shadow: inset 0 5px 10px 0 #fff,
+ inset 0 -5px 10px 3px #877,
+ 0 5px 10px 0px #121;
+}
+.eight_css{
+ width:100%;
+ border-radius:20%;
+ font-size:50px;
+ background:#fee;
+ color:#333;
+ border:none;
+ box-shadow: inset 0 5px 10px 0 #fff,
+ inset 0 -5px 10px 3px #877,
+ 0 5px 10px 0px #121;
+}
+.nine_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+.minus_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+
+
+.zero_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+.dot_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+.equal_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+.mul_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+
+
+.bck_clear_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+.dev_css{
+  width:100%;
+  border-radius:20%;
+  font-size:50px;
+  background:#fee;
+  color:#333;
+  border:none;
+  box-shadow: inset 0 5px 10px 0 #fff,
+  inset 0 -5px 10px 3px #877,
+  0 5px 10px 0px #121;
+}
+
+
+
+table{
+  width:100%;
+}
+
+p{
+  color:#0ff;
+  margin:1%;
+}

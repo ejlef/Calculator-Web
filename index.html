@@ -1,0 +1,67 @@
+<!-- felje -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>SIMPLE_CALCULATOR</title>
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="main_css">
+<textarea type="text" class="display_css" id="display_js" placeholder="0" disabled></textarea>
+<br /> <br /> <br /> <br />
+
+ <table>
+  <tr>
+    <td><input class="one_css" type="button" value="1" onclick="num(1)"></td>
+    <td><input class="two_css" type="button" value="2" onclick="num(2)"></td>
+    <td><input class="three_css" type="button" value="3" onclick="num(3)"></td>
+    <td><input class="clear_css" type="button" value="C" onclick="clear_C('')"></td>
+    </tr>
+    <tr>
+    <td><input class="four_css" type="button" value="4" onclick="num(4)"></td>
+    <td><input class="five_css" type="button" value="5" onclick="num(5)"></td>
+    <td><input class="sex_css" type="button" value="6" onclick="num(6)"></td>
+    <td><input class="plus_css" type="button" value="+" onclick="num('+')"></td>
+  </tr>
+  <tr>
+   <td><input class="seven_css" type="button" value="7" onclick="num(7)"></td>
+    <td><input class="eight_css" type="button" value="8" onclick="num(8)"></td>
+    <td><input class="nine_css" type="button" value="9" onclick="num(9)"></td>
+    <td><input class="minus_css" type="button" value="-" onclick="num('-')"></td>
+  </tr>
+  <tr>
+    
+ <td><input class="zero_css" type="button" value="0" onclick="num(0)"></td>
+ <td><input class="dot_css" type="button" value="." onclick="num('.')"></td>
+ <td><input class="equal_css" type="button" value="=" onclick="equal()"></td>
+ <td><input class="mul_css" type="button" value="×" onclick="num('*')"></td>
+  </tr>
+  <tr>
+<td><input class="bck_clear_css" type="button" value="&#8426" onclick="clr_1()"></td>
+<td></td>
+<td></td>
+ <td><input class="dev_css" type="button" value="÷" onclick="num('/')"></td>
+  </tr>
+</table>
+<p>✓felje</p>
+
+</div>
+  
+ 
+
+
+  <!-- Project -->
+  <script src="main.js"></script>
+</body>
+</html>
+
+
+
